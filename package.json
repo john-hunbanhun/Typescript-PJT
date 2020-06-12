@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/john-hunbanhun/Typescript-PJT/issues"
   },
-  "homepage": "https://github.com/john-hunbanhun/Typescript-PJT#readme"
+  "homepage": "https://github.com/john-hunbanhun/Typescript-PJT#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }

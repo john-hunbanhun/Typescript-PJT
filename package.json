@@ -1,0 +1,20 @@
+{
+  "name": "Typescript-PJT",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/john-hunbanhun/Typescript-PJT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/john-hunbanhun/Typescript-PJT/issues"
+  },
+  "homepage": "https://github.com/john-hunbanhun/Typescript-PJT#readme"
+}
